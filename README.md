@@ -10,16 +10,15 @@ raunak
 full stack dev. pixels to databases. 60fps or it didn't ship.
 raunak@i-Rony-op:~$ _
 ```
+`raunak@github:~$ cat ~/.contacts`
 
-<div align="center">
+[`[0] linkedin   -> /in/raunak-sharma-5393a9248`](https://www.linkedin.com/in/raunak-sharma-5393a9248/)<br>
+[`[1] x          -> @RONY38434557              `](https://x.com/RONY38434557)<br>
+[`[2] instagram  -> @raunakksharmaa            `](https://www.instagram.com/raunakksharmaa/)<br>
+[`[3] mail       -> raunaksharma6205@gmail.com `](mailto:raunaksharma6205@gmail.com)<br>
+[`[4] github     -> /i-Rony-op                 `](https://github.com/i-Rony-op)
 
-<a href="https://www.linkedin.com/in/raunak-sharma-5393a9248/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/RONY38434557"><img src="https://img.shields.io/badge/-@RONY38434557-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/raunakksharmaa/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:raunaksharma6205@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=i-Rony-op&style=for-the-badge&color=e8b04b&label=VISITORS" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=i-Rony-op&style=flat-square&color=0d1117&labelColor=161b22&label=visitors+%5Bcat+%2Fvar%2Flog%2Fhits%5D" />
 
 <br/>
 
