@@ -10,13 +10,17 @@ raunak
 full stack dev. pixels to databases. 60fps or it didn't ship.
 raunak@i-Rony-op:~$ _
 ```
-`raunak@github:~$ cat ~/.contacts`
+```console
+raunak@github:~$ ss -tulpn | grep raunak
+```
 
-[`[0] linkedin   -> /in/raunak-sharma-5393a9248`](https://www.linkedin.com/in/raunak-sharma-5393a9248/)<br>
-[`[1] x          -> @RONY38434557              `](https://x.com/RONY38434557)<br>
-[`[2] instagram  -> @raunakksharmaa            `](https://www.instagram.com/raunakksharmaa/)<br>
-[`[3] mail       -> raunaksharma6205@gmail.com `](mailto:raunaksharma6205@gmail.com)<br>
-[`[4] github     -> /i-Rony-op                 `](https://github.com/i-Rony-op)
+| `PID` | `SERVICE` | `ENDPOINT` | `STATE` |
+|:-:|:--|:--|:-:|
+| `001` | `linkedin` | [`/in/raunak-sharma-5393a9248  ↗`](https://www.linkedin.com/in/raunak-sharma-5393a9248/) | `LISTEN` |
+| `002` | `x` | [`@RONY38434557  ↗`](https://x.com/RONY38434557) | `LISTEN` |
+| `003` | `instagram` | [`@raunakksharmaa  ↗`](https://www.instagram.com/raunakksharmaa/) | `LISTEN` |
+| `004` | `smtp` | [`raunaksharma6205@gmail.com  ↗`](mailto:raunaksharma6205@gmail.com) | `LISTEN` |
+| `005` | `git` | [`github.com/i-Rony-op  ↗`](https://github.com/i-Rony-op) | `LISTEN` |
 
 <img src="https://komarev.com/ghpvc/?username=i-Rony-op&style=flat-square&color=0d1117&labelColor=161b22&label=visitors+%5Bcat+%2Fvar%2Flog%2Fhits%5D" />
 
